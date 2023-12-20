@@ -7,7 +7,7 @@ namespace Hzeff.Editor
     public static class RecycleScrollingEditorTool
     {
         const string PrefabName = "Recyclable Scroll View";
-        const string PrefabPath = "Assets/Recyclable Scroll Rect/Runtime/Prefabs/Recyclable Scroll View.prefab";
+        const string PrefabPath = "Packages/com.hzeff.ui.recycleable-scroll-rect/Runtime/Prefabs/Recyclable Scroll View.prefab";
 
         [MenuItem("GameObject/UI/Recyclable Scroll View")]
         private static void CreateRecyclableScrollView()
