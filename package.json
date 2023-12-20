@@ -1,0 +1,17 @@
+{
+  "name": "com.hzeff.ui.recycleable-scroll-rect",
+  "version": "0.0.1",
+  "displayName": "Recycleable Scroll Rect",
+  "description": "A scroll rect that recycles its children",
+  "unity": "2021.3.29f",
+  "dependencies": {},
+  "keywords": [
+    "recycleable",
+    "scroll",
+    "rect"
+  ],
+  "author": {
+    "name": "Hzeff",
+    "email": "hzeffdeveloper@gmail.com"
+  }
+}

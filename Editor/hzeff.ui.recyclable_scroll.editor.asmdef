@@ -1,0 +1,18 @@
+{
+    "name": "hzeff.ui.recyclable_scroll.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d2384d434e83d914e81ebc0da9c01852"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
